@@ -4,6 +4,7 @@
 .text-transparent-dark-gray {
   color: var(--transparent-dark-gray);
 }
+
 .main-content .text-section {
   display: flex;
   text-align: center;
@@ -63,7 +64,7 @@
   flex-direction: column;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  width: 60%;
 }
 
 .main-content .alumni-section .alumni {
